@@ -136,6 +136,7 @@ dmypy.json
 datasets/
 runs/
 wandb/
+groceries_dataset/
 
 .DS_Store
 
