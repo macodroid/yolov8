@@ -1,0 +1,16 @@
+path: /home/m/macko70/projects/yolov8/groceries_dataset/yolo_format_dataset
+train: train/images  
+val: val/images 
+
+
+names:
+  0: "default_category"
+  1: "uknown"
+  2: "bag"
+  3: "jar"
+  4: "can"
+  5: "drink_can"
+  6: "box"
+  7: "candy_bar"
+  8: "chocolate_bar"
+  9: "bottle"
