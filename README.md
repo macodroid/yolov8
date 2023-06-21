@@ -7,7 +7,7 @@ This was done by [JSON2YOLO](https://github.com/macodroid/yolov8-groceries/tree/
 
 Training process was done in Jupyter Notebook [seg_groceries_yolov8.ipynb](https://github.com/macodroid/yolov8-groceries/blob/main/seg_groceries_yolov8.ipynb)
 
-### How to
+### How to train
 
 1. Download pre-trained YOLOv8 model (google drive) ```yolov8x-seg.pt```. Download it to the root directory of this project (same level as this README.me).
 2. Download groceries dataset in yolo format (google drive) and place them in root directory of this project.
@@ -19,7 +19,7 @@ Training process was done in Jupyter Notebook [seg_groceries_yolov8.ipynb](https
 
 Evaluation of trained model is done in [eval_yolov8_seg_groceries.ipynb](https://github.com/macodroid/yolov8-groceries/blob/main/eval_yolov8_seg_groceries.ipynb)
 
-### How to
+### How to evaluate and visualize
 
 1. Download trained and exported YOLOv8 segment model (google drive).
 2. In second cell of notebook adjust path of download model.
