@@ -14,3 +14,14 @@ Training process was done in Jupyter Notebook [seg_groceries_yolov8.ipynb](https
 3. In ```./ultralytic/datasets/groceries.yaml``` [groceries.yaml](https://github.com/macodroid/yolov8-groceries/blob/main/ultralytics/datasets/groceries.yaml) adjust paths training and validation dataset.
 4. In file [seg_groceries_yolov8.ipynb](https://github.com/macodroid/yolov8-groceries/blob/main/seg_groceries_yolov8.ipynb) adjust path for pre trained model.
 5. In same file [seg_groceries_yolov8.ipynb](https://github.com/macodroid/yolov8-groceries/blob/main/seg_groceries_yolov8.ipynb) one more adjusment need to be made and it is setting path to the [groceries.yaml](https://github.com/macodroid/yolov8-groceries/blob/main/ultralytics/datasets/groceries.yaml) file.
+
+## Evaluation
+
+Evaluation of trained model is done in [eval_yolov8_seg_groceries.ipynb](https://github.com/macodroid/yolov8-groceries/blob/main/eval_yolov8_seg_groceries.ipynb)
+
+### How to
+
+1. Download trained and exported YOLOv8 segment model (google drive).
+2. In second cell of notebook adjust path of download model.
+3. In third cell adjust paths to dataset (**yolo formated dataset**).
+4. Run it.
