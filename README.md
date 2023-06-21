@@ -25,3 +25,6 @@ Evaluation of trained model is done in [eval_yolov8_seg_groceries.ipynb](https:/
 2. In second cell of notebook adjust path of download model.
 3. In third cell adjust paths to dataset (**yolo formated dataset**).
 4. Run it.
+
+---
+Intresting pictures of training process can be found [here](https://github.com/macodroid/yolov8-groceries/tree/main/runs/segment/train13). 
