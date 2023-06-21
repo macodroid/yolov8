@@ -28,3 +28,6 @@ Evaluation of trained model is done in [eval_yolov8_seg_groceries.ipynb](https:/
 
 ---
 Intresting pictures of training process can be found [here](https://github.com/macodroid/yolov8-groceries/tree/main/runs/segment/train13). 
+
+---
+Package requirements are in [requirements](https://github.com/macodroid/yolov8-groceries/tree/main/env_packages) folder. **Same requirements are for [Mask RCNN seg groceries](https://github.com/macodroid/maskrcnn-groceries)**
